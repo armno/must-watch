@@ -16,3 +16,7 @@ collections of my favorite videos, in no significant orders.
 
 - [**Tommy Emmanuel Talks Maton Guitars with Tony Polecastro**](https://www.youtube.com/watch?v=5UFa3fJPa40) - an interview of one of my favorite people: Tommy Emmanuel.
 - [**Chris Martin on Devil Pop Art & Being CEO of Martin Guitars**](https://www.youtube.com/watch?v=ONB7n-WYTQg) - I like it when they talked about guitar making is not really an "indrustry". Everyone shares.
+
+## `notsure`
+
+- [**Tim Ewald - Clojure: Programming with Hand Tools**](https://www.youtube.com/watch?v=ShEez0JkOFw)
