@@ -8,6 +8,7 @@ collections of my favorite videos, in no significant orders.
 - [**What the heck is the event loop anyway?**](https://www.youtube.com/watch?v=8aGhZQkoFbQ) &mdash; a fun and informative talk. really helped me understand about the event loop.
 - [**ng-wat - Shai Reznik**](https://www.youtube.com/watch?v=M_Wp-2XA9ZU) &mdash; my favorite video of 2015 so far! `#angular`
 - [**You will learn RxJS**](https://www.youtube.com/watch?v=uQ1zhJHclvs) &mdash; Best intro to RxJS ever! `#rxjs`
+- [**Learning Functional Programming with JavaScript**](https://www.youtube.com/watch?v=e-5obm1G_FY) &mdash; by Anjana Vakil. Really great intro to functional programming in general, and of course in JavaScript. `#functional programming`
 
 ## `#webdev`
 
