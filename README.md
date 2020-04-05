@@ -25,3 +25,7 @@ collections of my favorite videos, in no significant orders.
 
 - [**Tim Ewald - Clojure: Programming with Hand Tools**](https://www.youtube.com/watch?v=ShEez0JkOFw) &mdash; recommended by [@rburns](https://github.com/rburns).
 - [**How to Square, Flatten, & Dimension Rough Boards by Hand**](https://www.youtube.com/watch?v=Ojeul33vXL4) &mdash; this makes me have more appriciation on hand tools.
+
+## `#marketing`
+
+- [**Building Rapha**](https://cyclingtips.com/2020/03/from-the-top-podcast-building-rapha/) &mdash; this is not a video but a podcast. i like how Simon Mottram, the founder of Rapha, are very passionated about what he is doing.
