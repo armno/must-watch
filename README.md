@@ -13,6 +13,7 @@ collections of my favorite videos, in no significant orders.
 ## `#webdev`
 
 - [**An introduction to browser rendering**](https://www.youtube.com/watch?v=n1cKlKM3jYI) &mdash; short introduction of how browsers render a web page. To understand and be able to optimize for performance.
+- [**How Open Source Changed My Life with Max Stoiber**](https://www.youtube.com/watch?v=ifq3xhik8tE) &mdash; story of Max Stoiber, the creator of react-boilerplate and styled-components.
 
 ## `#music`
 
